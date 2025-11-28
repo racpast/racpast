@@ -1,6 +1,6 @@
 # <div align="center">Hello, I'm **Racpast** 🍻</div>
 <div align="center">
-	<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/headers/5.gif" align="center"/>
+	<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/headers/5.gif" align="center"/>
 </div>
 
 ## **<div align="center"> Full-stack Developer | ACG Enthusiast | Mathematics Lover </div>**
@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer working on interesti
 - **[SNIBypassGUI](https://github.com/racpast/SNIBypassGUI)**: A tool for bypassing network restrictions, **preliminarily tested** with **high praise** from users.
 <div align="center">
 
-[![SNIBypassGUI](https://github-readme-stats.vercel.app/api/pin/?username=racpast&repo=SNIBypassGUI&theme=vue&v=0)](https://github.com/racpast/SNIBypassGUI)
+[![SNIBypassGUI](https://github-readme-stats.vercel.app/api/pin/?username=racpast&repo=SNIBypassGUI&theme=vue&v=1)](https://github.com/racpast/SNIBypassGUI)
 </div>
 
 ### 🤝 Contributions
@@ -20,14 +20,14 @@ I also contribute to several open-source projects! If you're interested, feel fr
 A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese, English, Japanese, Français (soutien de base) languages. Based on Theme Sakura.
 <div align="center">
 
-[![Sakurairo](https://github-readme-stats.vercel.app/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true&theme=vue&v=0)](https://github.com/mirai-mamori/Sakurairo)
+[![Sakurairo](https://github-readme-stats.vercel.app/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true&theme=vue&v=1)](https://github.com/mirai-mamori/Sakurairo)
 </div>
 
 - **[q](https://github.com/natesales/q)**: 
 A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 <div align="center">
 
-[![q](https://github-readme-stats.vercel.app/api/pin/?username=natesales&repo=q&show_owner=true&theme=vue&v=0)](https://github.com/natesales/q)
+[![q](https://github-readme-stats.vercel.app/api/pin/?username=natesales&repo=q&show_owner=true&theme=vue&v=1)](https://github.com/natesales/q)
 </div>
 
 ### 🌱 Currently Learning
@@ -242,43 +242,43 @@ A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 ## 📬 Connect With Me
 <table align="center">
     <tr>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/qq.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/qq.png" align="center" height="32" width="32"/></td>
         <td>235268680</td>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/weixin.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/weixin.png" align="center" height="32" width="32"/></td>
         <td>racpast</td>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/telegram.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/telegram.png" align="center" height="32" width="32"/></td>
         <td><a href="https://t.me/racpast" target="_blank">@racpast</a></td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/twitter.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/twitter.png" align="center" height="32" width="32"/></td>
         <td><a href="https://x.com/racpast" target="_blank">@racpast</a></td>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/discord.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/discord.png" align="center" height="32" width="32"/></td>
         <td><a href="https://discord.com/users/1214336466927222815" target="_blank">1214336466927222815</a></td>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/pixiv.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/pixiv.png" align="center" height="32" width="32"/></td>
         <td><a href="https://www.pixiv.net/users/90591249" target="_blank">90591249</a></td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/aifadian.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/aifadian.png" align="center" height="32" width="32"/></td>
         <td><a href="https://afdian.com/@racpast" target="_blank">@racpast</a></td>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/github.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/github.png" align="center" height="32" width="32"/></td>
         <td><a href="https://github.com/racpast" target="_blank">racpast</a></td>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/gitlab.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/gitlab.png" align="center" height="32" width="32"/></td>
         <td><a href="https://gitlab.com/racpast" target="_blank">racpast</a></td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/dev.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/dev.png" align="center" height="32" width="32"/></td>
         <td><a href="https://dev.to/racpast" target="_blank">racpast</a></td>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/gmail.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/gmail.png" align="center" height="32" width="32"/></td>
         <td><a href="mailto:racpast@gmail.com" target="_blank">racpast@gmail.com</a></td>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/altyoujian.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/altyoujian.png" align="center" height="32" width="32"/></td>
         <td><a href="mailto:racpast@outlook.com" target="_blank">racpast@outlook.com</a></td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/qqyouxiang.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/qqyouxiang.png" align="center" height="32" width="32"/></td>
         <td><a href="mailto:racpast@qq.com" target="_blank">racpast@qq.com</a></td>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/wangyiyouxiang.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/wangyiyouxiang.png" align="center" height="32" width="32"/></td>
         <td><a href="mailto:racpast@163.com" target="_blank">racpast@163.com</a></td>
-        <td><img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/icons/wangyiyouxiang.png" align="center" height="32" width="32"/></td>
+        <td><img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/icons/wangyiyouxiang.png" align="center" height="32" width="32"/></td>
         <td><a href="mailto:racpast@126.com" target="_blank">racpast@126.com</a></td>
     </tr>
 </table>
@@ -295,12 +295,12 @@ A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 	<tr>
 		<td valign="middle" height="70%">
 			<div align="center">
-				<img src="https://github-readme-stats.vercel.app/api?username=racpast&theme=github_dark_dimmed&count_private=true&hide=contribs&v=0"/>
+				<img src="https://github-readme-stats.vercel.app/api?username=racpast&theme=github_dark_dimmed&count_private=true&hide=contribs&v=1"/>
 			</div>
 		</td>
 		<td valign="middle" height="70%">
 			<div align="center">
-				<img src="https://github-readme-stats.vercel.app/api/top-langs?username=racpast&layout=compact&langs_count=6&theme=github_dark_dimmed&v=0"/>
+				<img src="https://github-readme-stats.vercel.app/api/top-langs?username=racpast&layout=compact&langs_count=6&theme=github_dark_dimmed&v=1"/>
 			</div>
 		</td>
 	</tr>
@@ -449,28 +449,28 @@ A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 	<table>
 		<tr>
 			<td valign="top" width="33%">
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/1.jpg" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/2.png" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/3.gif" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/4.gif" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/5.jpg" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/6.gif" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/1.jpg" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/2.png" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/3.gif" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/4.gif" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/5.jpg" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/6.gif" align="center" style="width: 100%"/>
 			</td>
 			<td valign="top" width="33%">
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/7.gif" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/8.gif" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/9.gif" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/10.jpg" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/11.jpg" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/12.gif" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/7.gif" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/8.gif" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/9.gif" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/10.jpg" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/11.jpg" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/12.gif" align="center" style="width: 100%"/>
 			</td>
 			<td valign="top" width="33%">
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/13.jpg" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/14.jpg" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/15.jpg" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/16.jpg" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/17.gif" align="center" style="width: 100%"/>
-				<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/illustrations/18.gif" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/13.jpg" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/14.jpg" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/15.jpg" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/16.jpg" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/17.gif" align="center" style="width: 100%"/>
+				<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/illustrations/18.gif" align="center" style="width: 100%"/>
 			</td>
 		</tr>
 	</table>
@@ -479,5 +479,5 @@ A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 
 ## ❤️ Support Me
 <div align="center">
-	<img src="https://raw.githubusercontent.com/racpast/racpast/refs/heads/main/assets/images/support.gif" align="center"/>
+	<img src="https://raw.githubusercontent.com/racpast/racpast/main/assets/images/support.gif" align="center"/>
 </div>
