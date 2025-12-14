@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer working on interesti
 - **[SNIBypassGUI](https://github.com/racpast/SNIBypassGUI)**: A tool for bypassing network restrictions, **preliminarily tested** with **high praise** from users.
 <div align="center">
 
-[![SNIBypassGUI](https://github-readme-stats-rp.vercel.app/api/pin/?username=racpast&repo=SNIBypassGUI&theme=vue&v=1)](https://github.com/racpast/SNIBypassGUI)
+[![SNIBypassGUI](https://github-readme-stats.racpast.com/api/pin/?username=racpast&repo=SNIBypassGUI&theme=vue&v=1)](https://github.com/racpast/SNIBypassGUI)
 </div>
 
 ### 🤝 Contributions
@@ -20,14 +20,14 @@ I also contribute to several open-source projects! If you're interested, feel fr
 A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese, English, Japanese, Français (soutien de base) languages. Based on Theme Sakura.
 <div align="center">
 
-[![Sakurairo](https://github-readme-stats-rp.vercel.app/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true&theme=vue&v=1)](https://github.com/mirai-mamori/Sakurairo)
+[![Sakurairo](https://github-readme-stats.racpast.com/api/pin/?username=mirai-mamori&repo=Sakurairo&show_owner=true&theme=vue&v=1)](https://github.com/mirai-mamori/Sakurairo)
 </div>
 
 - **[q](https://github.com/natesales/q)**: 
 A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 <div align="center">
 
-[![q](https://github-readme-stats-rp.vercel.app/api/pin/?username=natesales&repo=q&show_owner=true&theme=vue&v=1)](https://github.com/natesales/q)
+[![q](https://github-readme-stats.racpast.com/api/pin/?username=natesales&repo=q&show_owner=true&theme=vue&v=1)](https://github.com/natesales/q)
 </div>
 
 ### 🌱 Currently Learning
@@ -295,12 +295,12 @@ A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 	<tr>
 		<td valign="middle" height="70%">
 			<div align="center">
-				<img src="https://github-readme-stats-rp.vercel.app/api?username=racpast&theme=github_dark_dimmed&count_private=true&hide=contribs&v=1"/>
+				<img src="https://github-readme-stats.racpast.com/api?username=racpast&theme=github_dark_dimmed&count_private=true&hide=contribs&v=1"/>
 			</div>
 		</td>
 		<td valign="middle" height="70%">
 			<div align="center">
-				<img src="https://github-readme-stats-rp.vercel.app/api/top-langs?username=racpast&layout=compact&langs_count=6&theme=github_dark_dimmed&v=1"/>
+				<img src="https://github-readme-stats.racpast.com/api/top-langs?username=racpast&layout=compact&langs_count=6&theme=github_dark_dimmed&v=1"/>
 			</div>
 		</td>
 	</tr>
